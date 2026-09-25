@@ -1,0 +1,64 @@
+
+{
+
+	"datos_personales":{
+		"nombre":"David Eduardo",
+		"apellido":"Diaconu",
+		"telefono":"643606688",
+		"email":{
+			"personal":"daviddiaconu656@gmail.com",
+			"profesional":"daviddiaconu39@gmail.com",
+		"hobbies":"Escuchar música, jugar videojuegos, salir con amigos"
+		}
+	},
+
+	"datos_profesionales":{
+	"Experiencia_profesional":[
+			{
+				"empresa":"BAGU",
+				"puesto":"corredor y peón agrícola"
+			},
+			{
+				"empresa":"Burguer King",
+				"puesto":"atención en caja"
+			}
+		],
+		"formacion":[
+			{
+				"centro":"IES Campanar",
+				"titulación":"Bachillerato",
+				"inicio":"2024",
+				"fin":"2026"
+			},
+			{
+				"centro":"CEAC",
+				"titulación":"Grado superior en ASIR",
+				"inicio":"2026",
+				"fin":"en curso"
+			}
+		],
+		"idiomas":[
+		{
+			"idioma":"español",
+		"nivel":"nativo"
+		},
+		{
+			"idioma":"inglés",
+		"nivel":"fluido"
+		},
+		{
+			"idioma":"Rumano",
+		"nivel":"fluido"
+		},
+		{
+			"idioma":"portugues",
+		"nivel":"básico"
+		},
+		{
+			"idioma":"valenciano",
+		"nivel":"fluido"
+		}
+  ]
+  }
+
+}
